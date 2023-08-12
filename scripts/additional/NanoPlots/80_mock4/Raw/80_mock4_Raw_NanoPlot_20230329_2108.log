@@ -1,0 +1,23 @@
+2023-03-29 21:08:05,071 NanoPlot 1.41.0 started with arguments Namespace(N50=False, alength=False, bam=None, barcoded=False, color='#4CB391', colormap='Greens', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['80_mock4.fastq'], fastq_minimal=None, fastq_rich=None, feather=None, font_scale=1, format=['png'], hide_stats=False, huge=False, info_in_report=False, legacy=None, listcolormaps=False, listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, no_static=False, no_supplementary=False, outdir='.', path='./80_mock4_Raw_', percentqual=False, pickle=None, plots=['kde', 'dot'], prefix='80_mock4_Raw_', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=1, title=None, tsv_stats=False, ubam=None, verbose=False)
+2023-03-29 21:08:05,071 Python version is: 3.7.12 | packaged by conda-forge | (default, Oct 26 2021, 06:08:21)  [GCC 9.4.0]
+2023-03-29 21:08:05,097 Nanoget: Starting to collect statistics from plain fastq file.
+2023-03-29 21:08:10,767 Reduced DataFrame memory usage from 0.46689605712890625Mb to 0.2723560333251953Mb
+2023-03-29 21:08:10,784 Nanoget: Gathered all metrics of 20399 reads
+2023-03-29 21:08:10,815 Calculated statistics
+2023-03-29 21:08:10,815 Using sequenced read lengths for plotting.
+2023-03-29 21:08:10,820 NanoPlot:  Valid color #4CB391.
+2023-03-29 21:08:10,820 NanoPlot:  Valid colormap Greens.
+2023-03-29 21:08:10,823 NanoPlot:  Creating length plots for Read length.
+2023-03-29 21:08:10,823 NanoPlot:  Using 20399 reads maximum of 1563bp.
+2023-03-29 21:08:13,099 Saved ./80_mock4_Raw_WeightedHistogramReadlength  as png (or png for --legacy)
+2023-03-29 21:08:13,936 Saved ./80_mock4_Raw_WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2023-03-29 21:08:14,856 Saved ./80_mock4_Raw_Non_weightedHistogramReadlength  as png (or png for --legacy)
+2023-03-29 21:08:15,741 Saved ./80_mock4_Raw_Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2023-03-29 21:08:17,817 Saved ./80_mock4_Raw_Yield_By_Length  as png (or png for --legacy)
+2023-03-29 21:08:17,819 Created length plots
+2023-03-29 21:08:17,830 NanoPlot: Creating Read lengths vs Average read quality plots using 20399 reads.
+2023-03-29 21:08:19,428 Saved ./80_mock4_Raw_LengthvsQualityScatterPlot_dot  as png (or png for --legacy)
+2023-03-29 21:08:22,224 Saved ./80_mock4_Raw_LengthvsQualityScatterPlot_kde  as png (or png for --legacy)
+2023-03-29 21:08:22,225 Created LengthvsQual plot
+2023-03-29 21:08:22,225 Writing html report.
+2023-03-29 21:08:22,245 Finished!

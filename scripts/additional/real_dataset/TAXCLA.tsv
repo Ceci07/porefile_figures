@@ -1,0 +1,248 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Species
+TAXA_001	NA	NA	NA	NA	NA	NA	NA
+TAXA_002	Bacteria	NA	NA	NA	NA	NA	NA
+TAXA_003	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	NA
+TAXA_004	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	NA
+TAXA_005	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	NA	NA
+TAXA_006	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	NA
+TAXA_007	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter freundii
+TAXA_008	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	NA
+TAXA_009	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae
+TAXA_010	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	NA
+TAXA_011	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+TAXA_012	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	NA
+TAXA_013	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae
+TAXA_014	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus vulgaris
+TAXA_015	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella dysenteriae
+TAXA_016	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+TAXA_017	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis
+TAXA_018	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides thetaiotaomicron
+TAXA_019	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides uniformis
+TAXA_020	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	unknown	Phocaeicola	Phocaeicola vulgatus
+TAXA_021	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	NA
+TAXA_022	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	NA
+TAXA_023	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+TAXA_024	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	NA
+TAXA_025	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera elsdenii
+TAXA_026	Bacteria	Bacteroidetes	NA	NA	NA	NA	NA
+TAXA_027	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter sphaeroides
+TAXA_028	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+TAXA_029	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+TAXA_030	Bacteria	Firmicutes	NA	NA	NA	NA	NA
+TAXA_031	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc	NA
+TAXA_032	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	NA
+TAXA_033	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	NA
+TAXA_034	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus epidermidis
+TAXA_035	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus radiodurans
+TAXA_036	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	NA	NA
+TAXA_037	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	NA
+TAXA_038	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius
+TAXA_039	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mutans
+TAXA_040	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus parasanguinis
+TAXA_041	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia hansenii
+TAXA_042	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus equinus
+TAXA_043	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	NA
+TAXA_044	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis
+TAXA_045	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecium
+TAXA_046	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	NA
+TAXA_047	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis
+TAXA_048	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus
+TAXA_049	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis
+TAXA_050	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis
+TAXA_051	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	NA
+TAXA_052	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium beijerinckii
+TAXA_053	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	unknown	[Clostridium] leptum
+TAXA_054	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	Erysipelatoclostridium ramosum
+TAXA_055	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	NA
+TAXA_056	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gasseri
+TAXA_057	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	Lactobacillus sakei
+TAXA_058	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	Ligilactobacillus salivarius
+TAXA_059	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	Schaalia odontolytica
+TAXA_060	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	NA
+TAXA_061	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis
+TAXA_062	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium breve
+TAXA_063	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium catenulatum
+TAXA_064	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium dentium
+TAXA_065	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	NA
+TAXA_066	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium limosum
+TAXA_067	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Actinomycetales	Actinomycetaceae	NA	NA
+TAXA_068	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium animalis
+TAXA_069	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium pseudocatenulatum
+TAXA_070	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospira	NA
+TAXA_071	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides eggerthii
+TAXA_072	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus
+TAXA_073	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes putredinis
+TAXA_074	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Odoribacteraceae	Odoribacter	Odoribacter splanchnicus
+TAXA_075	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	[Clostridium] scindens
+TAXA_076	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium paraputrificum
+TAXA_077	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	NA
+TAXA_078	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella parvula
+TAXA_079	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	NA	NA
+TAXA_080	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	NA	NA
+TAXA_081	Bacteria	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	NA
+TAXA_082	Bacteria	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium faecium
+TAXA_083	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia producta
+TAXA_084	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Mediterraneibacter	[Ruminococcus] torques
+TAXA_085	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	NA
+TAXA_086	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus avium
+TAXA_087	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	NA	NA
+TAXA_088	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus johnsonii
+TAXA_089	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila	NA
+TAXA_090	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila wadsworthia
+TAXA_091	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Faecalicatena	Faecalicatena contorta
+TAXA_092	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalitalea	Faecalitalea cylindroides
+TAXA_093	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	unknown	[Eubacterium] rectale
+TAXA_094	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella atypica
+TAXA_095	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia obeum
+TAXA_096	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+TAXA_097	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Sutterella wadsworthensis
+TAXA_098	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium sp.
+TAXA_099	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides merdae
+TAXA_100	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerofilum	NA
+TAXA_101	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium callanderi
+TAXA_102	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia hydrogenotrophica
+TAXA_103	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter braakii
+TAXA_104	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter werkmanii
+TAXA_105	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter murliniae
+TAXA_106	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus raffinosus
+TAXA_107	Bacteria	Actinobacteria <actinobacteria>	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella aerofaciens
+TAXA_108	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	NA	NA
+TAXA_109	Bacteria	Actinobacteria <actinobacteria>	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	NA	NA
+TAXA_110	Bacteria	Actinobacteria <actinobacteria>	Coriobacteriia	Eggerthellales	Eggerthellaceae	Eggerthella	NA
+TAXA_111	Bacteria	Actinobacteria <actinobacteria>	Coriobacteriia	Eggerthellales	Eggerthellaceae	Eggerthella	Eggerthella lenta
+TAXA_112	Bacteria	Actinobacteria <actinobacteria>	Coriobacteriia	NA	NA	NA	NA
+TAXA_113	Bacteria	Actinobacteria <actinobacteria>	Coriobacteriia	Coriobacteriales	NA	NA	NA
+TAXA_114	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea longicatena
+TAXA_115	Bacteria	Firmicutes	Bacilli	NA	NA	NA	NA
+TAXA_116	Bacteria	Actinobacteria <actinobacteria>	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	NA
+TAXA_117	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella ratti
+TAXA_118	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes	Anaerostipes caccae
+TAXA_119	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. CIP103040
+TAXA_120	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	NA	NA
+TAXA_121	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter youngae
+TAXA_122	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Hungatella	Hungatella hathewayi
+TAXA_123	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter hormaechei
+TAXA_124	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	NA
+TAXA_125	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotignum	Anaerotignum lactatifermentans
+TAXA_126	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia intestinalis
+TAXA_127	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus sp. 14531
+TAXA_128	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	Anaerotruncus colihominis
+TAXA_129	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	NA	NA	NA
+TAXA_130	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+TAXA_131	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Shuttleworthia	NA
+TAXA_132	Bacteria	Firmicutes	Clostridia	NA	NA	NA	NA
+TAXA_133	Bacteria	Firmicutes	Clostridia	Clostridiales	NA	NA	NA
+TAXA_134	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NA	NA
+TAXA_135	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	NA	NA
+TAXA_136	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	NA	NA
+TAXA_137	Bacteria	Firmicutes	Bacilli	Lactobacillales	NA	NA	NA
+TAXA_138	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	NA
+TAXA_139	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	unknown	Phocaeicola	Phocaeicola massiliensis
+TAXA_140	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes	NA
+TAXA_141	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Enterocloster	Enterocloster bolteae
+TAXA_142	Bacteria	Firmicutes	Clostridia	Clostridiales	Oscillospiraceae	NA	NA
+TAXA_143	Bacteria	Actinobacteria <actinobacteria>	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium longum
+TAXA_144	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	NA
+TAXA_145	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+TAXA_146	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila
+TAXA_147	Bacteria	Firmicutes	Clostridia	Clostridiales	unknown	unknown	butyrate-producing bacterium SM4/1
+TAXA_148	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides cellulosilyticus
+TAXA_149	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Intestinibacter	Intestinibacter bartlettii
+TAXA_150	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. Smarlab 3302398
+TAXA_151	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Odoribacteraceae	Odoribacter	NA
+TAXA_152	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flavonifractor	Flavonifractor plautii
+TAXA_153	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia hominis
+TAXA_154	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia faecis
+TAXA_155	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides finegoldii
+TAXA_156	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter glycyrrhizinilyticus
+TAXA_157	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	unknown	Phocaeicola	Phocaeicola dorei
+TAXA_158	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Enterocloster	Enterocloster aldensis
+TAXA_159	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides xylanisolvens
+TAXA_160	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	NA
+TAXA_161	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	unknown	Phocaeicola	Phocaeicola coprophilus
+TAXA_162	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides johnsonii
+TAXA_163	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+TAXA_164	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium LB01
+TAXA_165	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus comes
+TAXA_166	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia wexlerae
+TAXA_167	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter megalophilus
+TAXA_168	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas funiformis
+TAXA_169	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	Paraprevotella xylaniphila
+TAXA_170	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus sp. 5_1_39BFAA
+TAXA_171	Bacteria	Firmicutes	Clostridia	Clostridiales	Oscillospiraceae	Oscillibacter	NA
+TAXA_172	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	NA	NA	NA
+TAXA_173	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	NA	NA
+TAXA_174	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	NA
+TAXA_175	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Odoribacteraceae	Butyricimonas	NA
+TAXA_176	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+TAXA_177	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Butyricicoccus	NA
+TAXA_178	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter faecis
+TAXA_179	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides clarus
+TAXA_180	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	Parasutterella secunda
+TAXA_181	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes	Anaerostipes hadrus
+TAXA_182	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera indica
+TAXA_183	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	unknown	Phocaeicola	NA
+TAXA_184	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flavonifractor	NA
+TAXA_185	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	NA	NA
+TAXA_186	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia	Romboutsia ilealis
+TAXA_187	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium NLAE-zl-P872
+TAXA_188	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium NLAE-zl-G237
+TAXA_189	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium NLAE-zl-H27
+TAXA_190	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium NLAE-zl-H528
+TAXA_191	Bacteria	Firmicutes	Clostridia	Clostridiales	unknown	unknown	Clostridiales bacterium VE202-09
+TAXA_192	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus sp. G2-10
+TAXA_193	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus sp. TB6
+TAXA_194	Bacteria	Firmicutes	Clostridia	Clostridiales	unknown	Intestinimonas	Intestinimonas butyriciproducens
+TAXA_195	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Barnesiellaceae	Coprobacter	NA
+TAXA_196	Bacteria	Firmicutes	Clostridia	Clostridiales	unknown	Intestinimonas	NA
+TAXA_197	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium saudiense
+TAXA_198	Bacteria	Actinobacteria <actinobacteria>	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Enorma	Enorma massiliensis
+TAXA_199	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia	NA
+TAXA_200	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella seminalis
+TAXA_201	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Terrisporobacter	NA
+TAXA_202	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Intestinibacter	NA
+TAXA_203	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	NA
+TAXA_204	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	NA
+TAXA_205	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Tyzzerella	NA
+TAXA_206	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruthenibacterium	Ruthenibacterium lactatiformans
+TAXA_207	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	NA	NA
+TAXA_208	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp. cv1
+TAXA_209	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Agathobaculum	Agathobaculum butyriciproducens
+TAXA_210	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus sp. A254.MGS-108
+TAXA_211	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter portucalensis
+TAXA_212	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Hungatella	NA
+TAXA_213	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Fournierella	Fournierella massiliensis
+TAXA_214	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Sellimonas	Sellimonas intestinalis
+TAXA_215	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella rara
+TAXA_216	Bacteria	Firmicutes	Clostridia	Clostridiales	unknown	Intestinimonas	Intestinimonas timonensis
+TAXA_217	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	unknown	Lachnospiraceae bacterium AT6
+TAXA_218	Bacteria	Firmicutes	Clostridia	unknown	unknown	unknown	Clostridia bacterium UC5.1-2E3
+TAXA_219	Bacteria	Firmicutes	Clostridia	unknown	unknown	unknown	Clostridia bacterium UC5.1-1D4
+TAXA_220	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium sp. MF28
+TAXA_221	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. H121
+TAXA_222	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Sellimonas	NA
+TAXA_223	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Massilimicrobiota	Massilimicrobiota timonensis
+TAXA_224	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Cuneatibacter	Cuneatibacter caecimuris
+TAXA_225	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia sp. Marseille-P2398
+TAXA_226	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Lachnoclostridium sp. YL32
+TAXA_227	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	unknown	Erysipelotrichaceae bacterium I46
+TAXA_228	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Lachnoclostridium phocaeense
+TAXA_229	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus sp. KSUM_16
+TAXA_230	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Faecalimonas	Faecalimonas umbilicata
+TAXA_231	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia argi
+TAXA_232	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Fournierella	NA
+TAXA_233	Bacteria	Firmicutes	Clostridia	Clostridiales	unknown	Colidextribacter	NA
+TAXA_234	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Negativibacillus	NA
+TAXA_235	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+TAXA_236	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Barnesiellaceae	NA	NA
+TAXA_237	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp. CT06
+TAXA_238	Bacteria	Firmicutes	Clostridia	Clostridiales	unknown	Monoglobus	NA
+TAXA_239	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas sp.
+TAXA_240	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter freundii complex sp. CFNIH4
+TAXA_241	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter freundii complex sp. CFNIH9
+TAXA_242	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. DKU_NT_01
+TAXA_243	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus paragasseri
+TAXA_244	Bacteria	Firmicutes	Clostridia	Clostridiales	Oscillospiraceae	Oscillibacter	Oscillibacter sp. PEA192
+TAXA_245	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	unknown	Lachnospiraceae bacterium GAM79
+TAXA_246	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus koreensis
+TAXA_247	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Enterocloster	NA
